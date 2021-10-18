@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: when sorting random50000.txt its require lots of times (16s-20s) and this is the longest sorting times
+
+sort2 uses: Merge Sort
+
+How do you know?: when sorting random50000.txt its require (5s-8s) and this is the fastest sorting times
+
+sort3 uses: Selection Sort
+
+How do you know?: when sorting random50000.txt its require (8s-10s) according to the lecture the second fastest is selection sort
